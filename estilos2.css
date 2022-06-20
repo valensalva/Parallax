@@ -1,0 +1,51 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	background-color: gray;
+}
+
+.container{
+	font-family: sans-serif;
+	color: pink;
+}
+
+.container h1{
+	color: White;
+	text-align: center;
+}
+
+.container h2{
+	color: darkgray;
+}
+
+.parallax.img1{
+	background-image: url("https://i.pinimg.com/originals/af/2a/6c/af2a6c2021a663f9ddfb174ba5f6de43.jpg");
+}
+.parallax.img2{
+	background-image: url("https://www.efeverde.com/storage/2016/04/PANDADOS.jpg");
+}
+.parallax.img3{
+	background-image: url("https://cdn.comportamientode.com/wp-content/uploads/2020/11/comportamiento-del-huron.jpg");
+}
+
+.bloque p{
+	margin-bottom: 40px;
+}
+
+.bloque h2{
+	margin-bottom: 40px;
+}
+
+.bloque h1{
+	line-height: 600px;
+}
+
+.bloque.parallax{
+	height: auto;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
